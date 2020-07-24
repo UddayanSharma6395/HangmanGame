@@ -27,7 +27,6 @@ public class hangman
         {
             c[i]='#';
         }
-        System.out.println(s);
         System.out.println("MAKE A CHOICE");
         System.out.println("USING A HINT OR WRONG GUESSES WILL REDUCE YOUR LIFE BY ONE");
         System.out.println("1--> GUESS THE LETTER");
